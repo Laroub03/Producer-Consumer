@@ -1,0 +1,15 @@
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.csproj.AssemblyReference.cache
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.AssemblyInfoInputs.cache
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.AssemblyInfo.cs
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.csproj.CoreCompileInputs.cache
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/bin/Debug/net7.0/Producer-Consumer
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/bin/Debug/net7.0/Producer-Consumer.deps.json
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/bin/Debug/net7.0/Producer-Consumer.runtimeconfig.json
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/bin/Debug/net7.0/Producer-Consumer.dll
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/bin/Debug/net7.0/Producer-Consumer.pdb
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.dll
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/refint/Producer-Consumer.dll
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.pdb
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/Producer-Consumer.genruntimeconfig.cache
+/Users/ayoublaroub/projects/Producer-Consumer/Producer-Consumer/obj/Debug/net7.0/ref/Producer-Consumer.dll
